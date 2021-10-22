@@ -1,0 +1,34 @@
+body {
+  background: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#login_div {
+  border-radius: 35px;
+  background-color: white;
+  /* padding: 15px;
+  height: 700px; */
+}
+
+#img_login { 
+  float: left;
+}
+
+#label_login {
+  font-family: Not-Sans-Mono;
+  color: black;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+#div_real-login {
+  background-color: grey;
+   height: 600px;
+  /* width: 700px; */
+  padding: 15px;
+  float: right;
+  border-radius: 35px;
+  /* margin-top: 50px; */
+}

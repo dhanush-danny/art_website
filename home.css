@@ -1,0 +1,71 @@
+body{
+  background-color: black;
+}
+
+.links {
+  display: inline;
+}
+
+/*
+.links {
+    display: inline;
+    color: rgb(228, 28, 28);
+    padding: 10px;
+    font-family: Noto Sans Mono;
+    font-size: 20px;
+    text-align: center;
+    width: fit-content;
+    border-style: double;
+    border-color: white;
+    border-width: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+} */
+
+#menu a:hover {
+  text-decoration-style: none;
+}
+
+.menu {
+  list-style: none;
+  text-decoration: none;
+  text-decoration-style: inherit;
+  color: inherit;
+}
+
+#myNavbar {
+  background-color: black;
+  width: 100%;
+}
+
+#menu a {
+  color: white;
+}
+
+#mycarousel {
+  background-color: rgb(0, 0, 0);
+}
+
+#mycarousel img {
+  height: 300px;
+  margin-top: 35px;
+}
+
+#div_home {
+  background-color: black;
+}
+
+.img_carousel {
+  width: 500px;
+  height: 300px;
+}
+
+#navbar{
+  background-color: black;
+}
+
+.li_a_home{
+  margin-left: 180px;
+  font-size: 15px;
+  font-family: Noto Sans Mono;
+}
